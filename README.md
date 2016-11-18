@@ -8,6 +8,12 @@ Please work in Python, you are free to use whichever web framework you prefer (D
 
 Database details:
 
+--host=product-data.cuviiwejzyww.us-east-1.rds.amazonaws.com \
+--port=5432 \
+--username=webapp \
+--password=7mqMNnq5SRTCWm7n \
+--dbname=pb_product_data
 
+Please look in the cridata table.
 
 Please commit your work to the interview repo on Github so that we can look at your application locally after the hour has passed.
