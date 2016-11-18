@@ -11,7 +11,7 @@ Database details:
 --host=product-data.cuviiwejzyww.us-east-1.rds.amazonaws.com \
 --port=5432 \
 --username=webapp \
---password=7mqMNnq5SRTCWm7n \
+--password= \
 --dbname=pb_product_data
 
 Please look in the cridata table.
