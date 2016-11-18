@@ -1,1 +1,13 @@
-# software-interview
+Software-Interview
+
+As part of our application we allow our users to browse by product categories. Once they have selected a particular product category we inform about the sustainability attributes related to that particular product. This can take the form of both relevant practices/criteria sourced from ecolabels/EPPs and ProductBio's own impact areas.
+
+Please build a small search application which allows the user to browse by product category and return relevant data for that particular category. 
+
+Please work in Python, you are free to use whichever web framework you prefer (Django, Flask, etc...)
+
+Database details:
+
+
+
+Please commit your work to the interview repo on Github so that we can look at your application locally after the hour has passed.
